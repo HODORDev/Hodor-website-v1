@@ -33,7 +33,7 @@ export const Header = (props) => {
                   Join the Telegram
                 </a>{' '}
                 <div style={{ marginTop: '30px' }}>
-                  {props.data ? props.data.subtexts.map((text, i) => <div style={{fontWeight: 'bold', color: '#ddd'}} id={`${i}`}>{text}</div>) : 'Loading'}
+                  {props.data ? props.data.subtexts.map((text, i) => <div style={{fontWeight: 'bold', color: '#ddd', fontSize: '16px'}} id={`${i}`}>{text}</div>) : 'Loading'}
                 </div>
               </div>
             </div>

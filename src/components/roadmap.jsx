@@ -12,7 +12,7 @@ export const Roadmap = (props) => {
                   {' '}
                   <h3>{d.title}</h3>
                   <ul style={{ textAlign: 'left', listStyleType: 'circle', width: '75%' }}>
-                    {d.text.map(text => <li>{text}</li>)}
+                    {d.text.map(text => <li style={{ fontFamily: 'Montserrat' }}>{text}</li>)}
                   </ul>
                 </div>
               ))

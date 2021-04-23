@@ -18,10 +18,10 @@ export const Contact = (props) => {
             {props.data ? Object.keys(props.data).map(contactInfo => 
               <div className='contact-item'>
                 <p>
-                  <span>
-                    {contactInfo}
+                  <span style={{ fontWeight: 'bolder', fontSize: '18px', userSelect: 'none', fontFamily: '' }}>
+                    {contactInfo.toUpperCase()}
                   </span>{' '}
-                  <a href={props.data[contactInfo].value} style={{color: '#ff7b47'}}>{props.data ? props.data[contactInfo].text : 'loading'}</a>
+                  <a href={props.data[contactInfo].value} style={{color: '#ff7b47', fontWeight: 'bolder'}}>{props.data ? props.data[contactInfo].text : 'loading'}</a>
                 </p>
               </div>
             ) : 'Loading'}
