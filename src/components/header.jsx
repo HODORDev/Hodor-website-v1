@@ -27,7 +27,7 @@ export const Header = (props) => {
                 </a>{' '}
                 <a
                   target='_blank'
-                  href='#features'
+                  href='https://t.me/joinchat/VyukC4OD7ywyYWMy'
                   className='btn btn-custom btn-lg page-scroll'
                 >
                   Join the Telegram
