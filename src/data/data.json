@@ -1,0 +1,200 @@
+{
+    "Header": {
+
+        "title": "HODOR",
+        "paragraph": "HODOR ($HDR), The first token made for HODLERS",
+        "subtexts": [
+            "A holder-oriented token that is helping to fight panic sell across the world.",
+            "Land on Mars before Elon Musk with the HODOR."
+        ]
+    },
+    "About": {
+        "paragraph": "",
+        "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "Email": {
+            "value": "mailto:​hodorcoin@hotmail.com",
+            "text": "​hodorcoin@hotmail.com"
+        },
+        "Telegram (informations canal)": {
+            "text": "https://t.me/hodorhdr",
+            "value": "https://t.me/hodorhdr"
+        },
+        "Telegram (community)": {
+            "text": "https://t.me/joinchat/VyukC4OD7ywyYWMy",
+            "value": "https://t.me/joinchat/VyukC4OD7ywyYWMy"
+        }
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ],
+    "Tokenomics": [{
+            "icon": "fa fa-money",
+            "title": "Original supply",
+            "text": "10 000 000 000 HDR"
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "First week on PancakeSwap",
+            "text": "50% of the original supply will be BURNT"
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Goal: 60% tax on each transaction",
+            "text": "20% Distributed to HODLERS, 20% added to LIQUIDITY, 20% BURNT"
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Make HUGE profit from HODLING",
+            "text": "We reward HODLERS with a 20% transaction tax which puts $HDR directly in your wallet and 20% more which is burnt everytime someone buys or sells. This will make the price rise to mars in a matter of weeks."
+        }
+    ],
+    "Roadmap": [{
+            "title": "April 2021",
+            "text": [
+                "Pre sale (DONE)",
+                "50% burnt for the first week on Pancake Swap",
+                "Listing on PancakeSwap",
+                "Community Building",
+                "Improving the website, buy a proprietary domain name",
+                "Increase our visibility on social networks",
+                "Add the 20% fee for the holder and lower to 40% BURNT"
+            ]
+        },
+        {
+            "title": "May 2021",
+            "text": [
+                "CMC listing",
+                "Influencer Marketing",
+                "Recruiting 1 more DEV"
+            ]
+        },
+        {
+            "title": "June 2021",
+            "text": [
+                "Add the 20% fee for the liquidity",
+                "Lower to 20% BURNT"
+            ]
+        },
+        {
+            "title": "July 2021",
+            "text": [
+                "Partnerships and more..."
+            ]
+        }
+    ]
+}
