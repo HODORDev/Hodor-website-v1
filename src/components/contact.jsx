@@ -31,17 +31,17 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : '/'}>
+                    <a href={'https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2bce852afec9e7a000bd99c2aeed4907eee2e64e'}>
                       <p style={{color: 'white', fontWeight: 'bold'}}>PancakeSwap</p>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : '/'}>
+                    <a href={'https://poocoin.app/tokens/0x2Bce852Afec9E7a000bd99C2aEED4907eeE2E64e'}>
                       <p style={{color: 'white', fontWeight: 'bold'}}>Charts</p>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : '/'}>
+                    <a href={'https://t.me/joinchat/VyukC4OD7ywyYWMy'}>
                       <p style={{color: 'white', fontWeight: 'bold'}}>Telegram</p>
                     </a>
                   </li>
